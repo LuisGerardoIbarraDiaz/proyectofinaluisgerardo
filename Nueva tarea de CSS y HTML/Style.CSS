@@ -1,0 +1,48 @@
+body{background:lightgray;
+font-family: garamond,Georgia, 'Times New Roman', Times, serif;
+width: 1100px;
+margin: 0px auto;
+border: 0px solid;
+text-align: center;}
+
+
+header{background-color: lightcoral;
+height: 100px;
+width: 100%;
+text-align: center;
+line-height: 100px;
+color:white;
+border-bottom: 3px black;}
+
+.caja1{ 
+    float: left;
+    margin: 10px;
+}
+.caja2{
+    float: left;
+    margin: 10px;
+}
+.caja3{
+    float: left;
+    margin: 10px;
+}
+
+.caja4{
+    float: left;
+    margin: 10px;
+}
+
+.caja5{
+    float: left;
+    margin: 10px;
+}
+
+.caja6{ 
+    float: left;
+    margin: 10px;
+}
+.pie{ 
+    text-align:center;
+    float: left;
+}
+hr{align-items: center;}
